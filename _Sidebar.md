@@ -1,0 +1,1 @@
+<img src="https://github.com/deezer/spleeter/master/images/spleeter_logo.png" height="40">
