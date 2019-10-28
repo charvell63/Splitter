@@ -4,6 +4,6 @@ The separation process can be performed both on *GPU* or *CPU*. It is very fast 
 
 This documentation provides:
 
- * [Installation](../1.-Installation) instructions
- * [Usage manual](../2.-Getting-started) to get you started
- * A deeper view of the [Python API](../4.-API-Reference) and the pretrained [Models](../3.-Models) packaged with **Spleeter**
+ * [Installation](/deezer/spleeter/wiki/1.-Installation) instructions
+ * [Usage manual](/deezer/spleeter/wiki/2.-Getting-started) to get you started
+ * A deeper view of the [Python API](/deezer/spleeter/wiki/4.-API-Reference) and the pretrained [Models](/deezer/spleeter/wiki/3.-Models) packaged with **Spleeter**
