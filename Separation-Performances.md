@@ -38,7 +38,7 @@ To do so use the [configs/musdb_config.json](https://github.com/deezer/spleeter/
 ```bash
 spleeter train --verbose -p configs/musdb_config.json -d <musdb path>
 ```
-This should provide the following results on the dataset:
+This should provide the following results on the [musDB](https://sigsep.github.io/datasets/musdb.html) test dataset (note that results may differ a bit due to a not perfectly deterministic data pipeline):
 
 |           |SDR     |SAR     |SIR      |ISR     |
 |-----------|--------|--------|---------|--------|
