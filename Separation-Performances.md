@@ -48,5 +48,5 @@ This should provide the following results on the dataset:
 
 Once the model trained, the results of this table can be generated with:
 ```bash
-spleeter evaluate -p configs/musdb_config.json -o musdb_trained_spleeter_results --mus_dir <musdb path>
+spleeter evaluate -p configs/musdb_config.json -o musdb_trained_spleeter_results --mus_dir <musdb path> -m
 ```
