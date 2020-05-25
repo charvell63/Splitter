@@ -32,7 +32,8 @@ spleeter evaluate -p spleeter:4stems -o spleeter_mwf_results --mus_dir <musdb pa
 
 # Training on musdb
 
-It is possible to train a model with the [musDB](https://sigsep.github.io/datasets/musdb.html) train dataset.
+The pre-trained models were trained on a large private dataset.
+It is also possible to train a model with the public [musDB](https://sigsep.github.io/datasets/musdb.html) train dataset.
 To do so use the [configs/musdb_config.json](https://github.com/deezer/spleeter/blob/master/configs/musdb_config.json):
 ```bash
 spleeter train --verbose -p configs/musdb_config.json -d <musdb path>
